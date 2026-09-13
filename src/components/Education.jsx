@@ -6,7 +6,7 @@ export default function Education() {
   const e = CONTENT.education;
 
   return (
-    <section id="education" className="py-[110px]">
+    <section id="education" className="bg-bg-alt py-[110px]">
       <div className="mx-auto max-w-[1080px] px-6">
         <SectionHeading num="05.">Education</SectionHeading>
 

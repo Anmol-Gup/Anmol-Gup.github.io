@@ -33,6 +33,17 @@ export default function Projects() {
             </Reveal>
           ))}
         </div>
+
+        <Reveal className="mt-10">
+          <a
+            href={CONTENT.miniProjectsPlaylistUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-block rounded-md border border-accent px-[26px] py-[13px] font-mono text-[0.9rem] font-medium text-accent transition-all hover:-translate-y-px hover:bg-accent/10"
+          >
+            View More Projects
+          </a>
+        </Reveal>
       </div>
     </section>
   );
