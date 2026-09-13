@@ -85,7 +85,7 @@ export const CONTENT = {
     Frontend: ["React.js", "Tailwind CSS", "Bootstrap"],
     Databases: ["PostgreSQL", "MySQL", "MS SQL Server", "MongoDB"],
     "Platforms & Tools": ["HubSpot CRM", "NetSuite", "n8n", "Zapier", "Postman", "Docker", "Azure", "Git"],
-    "AI / ML": [
+    "AI Tools": [
       "LangChain",
       "Pinecone",
       "Gemini API",
