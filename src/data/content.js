@@ -11,7 +11,7 @@ export const CONTENT = {
     email: "prakashsurya1204@gmail.com",
     phone: "+91 7317482162",
     location: "Lucknow, India",
-    resumeFile: "/resume.pdf",
+    resumeFile: "resume.pdf",
   },
 
   socials: [

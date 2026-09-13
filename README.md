@@ -2,7 +2,7 @@
 
 Personal portfolio site. Built with React, Vite, and Tailwind CSS.
 
-Live at: https://anmol-gup.github.io
+Live at: https://anmol-gup.github.io/Portfolio/
 
 ## Development
 

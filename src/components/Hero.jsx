@@ -66,7 +66,7 @@ export default function Hero() {
             View Projects
           </a>
           <a
-            href={CONTENT.meta.resumeFile}
+            href={`${import.meta.env.BASE_URL}${CONTENT.meta.resumeFile}`}
             download
             className="rounded-md border border-accent px-[26px] py-[13px] font-mono text-[0.9rem] font-medium text-accent transition-all hover:-translate-y-px hover:bg-accent/10"
           >
