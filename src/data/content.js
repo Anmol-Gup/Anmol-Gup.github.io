@@ -77,6 +77,126 @@ export const CONTENT = {
     },
   ],
 
+  miniProjectsPlaylistUrl: "https://www.youtube.com/playlist?list=PLvBvMVnbcx7FXageODYapk8f0b2JBKEOq",
+
+  miniProjects: [
+    {
+      title: "YouTube Chat Extension (RAG)",
+      url: "https://www.youtube.com/watch?v=42ItVmyJbWw",
+      tags: ["Chrome Extension", "RAG", "FAISS", "LLM"],
+    },
+    {
+      title: "SaaS Testimonial Tool",
+      url: "https://www.youtube.com/watch?v=3KrqyurI6sw",
+      tags: ["Next.js", "Supabase", "AI"],
+    },
+    {
+      title: "AI Resume Analyzer",
+      url: "https://www.youtube.com/watch?v=W1Q_tCvhmXQ",
+      tags: ["Gemini AI", "Node.js", "React"],
+    },
+    {
+      title: "LinkedIn Post Generator",
+      url: "https://www.youtube.com/watch?v=Ov8YMVFV-iE",
+      tags: ["LangChain Agents", "Make.com", "Gemini"],
+    },
+    {
+      title: "FAQ & Appointment Booking Agent",
+      url: "https://www.youtube.com/watch?v=ghDTGPlo_lU",
+      tags: ["n8n", "No-Code", "AI Agent"],
+    },
+    {
+      title: "URL Shortener Chrome Extension",
+      url: "https://www.youtube.com/watch?v=bmnG9f7CubI",
+      tags: ["Chrome Extension", "HTML", "CSS", "JavaScript"],
+    },
+    {
+      title: "Todo List App (MERN Stack)",
+      url: "https://www.youtube.com/watch?v=AwElbEWC4kE",
+      tags: ["React", "Node.js", "Express", "MongoDB"],
+    },
+    {
+      title: "Portfolio Website (React + TS)",
+      url: "https://www.youtube.com/watch?v=uKwmk5sWQuM",
+      tags: ["React", "TypeScript", "Tailwind CSS"],
+    },
+    {
+      title: "Friendship Calculator",
+      url: "https://www.youtube.com/watch?v=B3vx4vnRWms",
+      tags: ["JavaScript"],
+    },
+    {
+      title: "Quiz App",
+      url: "https://www.youtube.com/watch?v=wCDFReddI9E",
+      tags: ["JavaScript"],
+    },
+    {
+      title: "Rock, Paper, Scissors",
+      url: "https://www.youtube.com/watch?v=q-VK1NjUwlQ",
+      tags: ["HTML5", "CSS3", "JavaScript"],
+    },
+    {
+      title: "Typing Speed Website",
+      url: "https://www.youtube.com/watch?v=loW9e8aqjSU",
+      tags: ["React"],
+    },
+    {
+      title: "Todo App",
+      url: "https://www.youtube.com/watch?v=iUQMspsS0Jo",
+      tags: ["Node.js", "Express"],
+    },
+    {
+      title: "Discussion App",
+      url: "https://www.youtube.com/watch?v=wYN09BMIb5Y",
+      tags: ["JavaScript"],
+    },
+    {
+      title: "Counter App",
+      url: "https://www.youtube.com/watch?v=qd6LIgbB5QM",
+      tags: ["JavaScript"],
+    },
+    {
+      title: "Pomodoro Clock",
+      url: "https://www.youtube.com/watch?v=5wDJEPhiXog",
+      tags: ["HTML5", "CSS3", "JavaScript"],
+    },
+    {
+      title: "Todo List with File Upload",
+      url: "https://www.youtube.com/watch?v=_T3R3Y2aTZw",
+      tags: ["Node.js", "Express", "Multer"],
+    },
+    {
+      title: "Code Editor",
+      url: "https://www.youtube.com/watch?v=nutP1TmxCxY",
+      tags: ["HTML5", "CSS3", "JavaScript"],
+    },
+    {
+      title: "Movie Website (OMDb API)",
+      url: "https://www.youtube.com/watch?v=I6A335qegag",
+      tags: ["React", "OMDb API"],
+    },
+    {
+      title: "News Website",
+      url: "https://www.youtube.com/watch?v=zjfL-zC2BoM",
+      tags: ["HTML", "CSS", "JavaScript"],
+    },
+    {
+      title: "Job Listing Website",
+      url: "https://www.youtube.com/watch?v=Pm67O3ggKP8",
+      tags: ["HTML", "CSS", "JavaScript"],
+    },
+    {
+      title: "Netflix Clone",
+      url: "https://www.youtube.com/watch?v=7hg_gdSpeqM",
+      tags: ["React"],
+    },
+    {
+      title: "URL Shortener (Firebase)",
+      url: "https://www.youtube.com/watch?v=NnOnRM5hEtE",
+      tags: ["React", "Firebase", "Tailwind CSS"],
+    },
+  ],
+
   skills: {
     Languages: ["JavaScript", "TypeScript", "Python", "SQL", "HTML/CSS", "C++"],
     Backend: ["Node.js", "Express.js", "REST APIs", "BullMQ", "Redis"],
