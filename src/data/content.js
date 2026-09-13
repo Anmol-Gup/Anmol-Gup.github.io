@@ -85,8 +85,17 @@ export const CONTENT = {
     Frontend: ["React.js", "Tailwind CSS", "Bootstrap"],
     Databases: ["PostgreSQL", "MySQL", "MS SQL Server", "MongoDB"],
     "Platforms & Tools": ["HubSpot CRM", "NetSuite", "n8n", "Zapier", "Postman", "Docker", "Azure", "Git"],
-    "AI / ML": ["LangChain", "Pinecone", "Gemini API", "RAG Pipelines"],
-    "AI Tools": ["Claude Code", "Claude Desktop", "OpenAI Codex", "ChatGPT", "Antigravity"],
+    "AI / ML": [
+      "LangChain",
+      "Pinecone",
+      "Gemini API",
+      "RAG Pipelines",
+      "Claude Code",
+      "Claude Desktop",
+      "OpenAI Codex",
+      "ChatGPT",
+      "Antigravity",
+    ],
   },
 
   certifications: [
