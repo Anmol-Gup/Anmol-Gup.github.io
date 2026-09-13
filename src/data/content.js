@@ -5,7 +5,7 @@
 export const CONTENT = {
   meta: {
     name: "Surya Prakash Gupta",
-    title: "Backend Engineer · API & Integrations · Automation Platforms",
+    title: "Software Developer · API & Integrations · Automation Platforms",
     tagline:
       "I build the APIs, integrations, and automation platforms that run behind real, paying SaaS products.",
     email: "prakashsurya1204@gmail.com",
@@ -22,7 +22,7 @@ export const CONTENT = {
   ],
 
   about: [
-    "I'm a backend engineer who specializes in APIs, third-party integrations, and workflow automation — the kind of infrastructure that quietly runs plan upgrades, billing, and CRM sync for real customers every day.",
+    "I'm a software developer who specializes in APIs, third-party integrations, and workflow automation — the kind of infrastructure that quietly runs plan upgrades, billing, and CRM sync for real customers every day.",
     "At CEDCOSS, I work across the MakeWebBetter Connect iPaaS platform: building connectors, automating billing with Stripe, and shipping production features like a policy-based referral and commission system.",
     "I've also built a full-stack RAG application with LangChain, Gemini, and Pinecone — because I like understanding the AI layer well enough to ship it, not just talk about it.",
   ],
