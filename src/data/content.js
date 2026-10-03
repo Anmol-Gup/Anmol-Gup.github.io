@@ -16,6 +16,11 @@ export const CONTENT = {
 
   socials: [
     { name: "GitHub", url: "https://github.com/Anmol-Gup", icon: "github" },
+    {
+      name: "LinkedIn",
+      url: "https://www.linkedin.com/in/surya-prakash-gupta-39b497180",
+      icon: "linkedin",
+    },
     { name: "Instagram", url: "https://www.instagram.com/gupta.anmol1204/", icon: "instagram" },
     { name: "Facebook", url: "https://www.facebook.com/profile.php?id=100024963634024", icon: "facebook" },
     { name: "YouTube", url: "https://www.youtube.com/@suryagupta1999", icon: "youtube" },
